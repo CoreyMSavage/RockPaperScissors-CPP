@@ -3,7 +3,7 @@
 
 int main() {
 
-  /* This is a rock, paper, scissors game -- with two added options of lizard and spock */
+  /* This is a rock, paper, scissors game */
 
   srand (time(NULL));
 
